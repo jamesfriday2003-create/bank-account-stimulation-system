@@ -1,0 +1,5 @@
+.env
+config/local.php
+*.log
+.ds_store
+thumbs.db
